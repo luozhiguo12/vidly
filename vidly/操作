@@ -1,0 +1,6 @@
+python manage.py makemigrations 迁移数据库
+
+python manage.py migrate 运行所有待迁移的数据库
+
+django-admin startproject vidly
+
